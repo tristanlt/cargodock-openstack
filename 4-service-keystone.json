@@ -1,0 +1,7 @@
+{
+	"service" : {
+		"name" : "keystone",
+		"type" : "identity",
+		"description" : "Service de gestion des identites"
+	}
+}

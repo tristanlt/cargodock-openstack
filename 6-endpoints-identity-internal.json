@@ -1,0 +1,9 @@
+{
+	"endpoint" : {
+		"service_id" : "24366df23ce64ce1a43dccc4cab7cf1a",
+		"interface" : "internal",
+		"url" : "http://9lpo133:5000/v3",
+		"region" : "FR-UTAV-II-DC1R1",
+		"name" : "keystone-internal-n1"
+	}
+}
