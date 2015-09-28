@@ -1,0 +1,14 @@
+{ "auth": 
+	{ "identity": {
+			"methods": ["password"],
+			"password": {
+				"user": {
+					"name": "alice",
+					"domain": { "id": "default" },
+					"password": "alice"
+					} 
+				      }
+			}		
+	}
+}
+
